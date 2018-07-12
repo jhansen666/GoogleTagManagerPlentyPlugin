@@ -1,0 +1,12 @@
+{
+    "version"           :   "0.0.1",
+    "license"           :   "MIT",
+    "name"              :   "GoogleTagManager",
+    "shortDescription"  :   { "de": "Plugin zum Einbinden des Tag Manager-Codes.", "en": "TODO add manually" },
+    "namespace"         :   "GoogleTagManager",
+    "author"            :   "Jan Hendrik Hansen",
+    "price"             :   0,
+    "categories"        :   [],
+    "type"              :   "general",
+    "serviceProvider"   :   "GoogleTagManager\\Providers\\GoogleTagManagerServiceProvider"
+}
