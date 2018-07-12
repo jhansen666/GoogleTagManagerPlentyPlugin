@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "tab"       :   "Content",
+        "key"       :   "gtm.key",
+        "label"     :   "Ihr Key für den Tag Manager",
+        "type"      :   "text",
+        "default"   :   ""   
+    }
+]
