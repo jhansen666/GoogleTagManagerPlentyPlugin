@@ -8,5 +8,18 @@
     "price"             :   0,
     "categories"        :   [],
     "type"              :   "general",
-    "serviceProvider"   :   "GoogleTagManager\\Providers\\GoogleTagManagerServiceProvider"
+    "serviceProvider"   :   "GoogleTagManager\\Providers\\GoogleTagManagerServiceProvider",
+    "dataProviders"     :
+    [
+        {
+            "key"       :   "GoogleTagManager\\Containers\\GoogleTagManagerCode",
+            "name"      :   "Google Tag Manager",
+            "description":  "Einbinden der Javascript-Version des Google Tag Managers" 
+        },
+        {
+            "key"       :   "GoogleTagManager\\Containers\\GoogleTagManagerCodeNoJS",
+            "name"      :   "Google Tag Manager No JS",
+            "description":  "Einbinder der non-Javascript-Version der Google Tag Managers als Ausfallsicherung"
+        }
+    ]
 }
