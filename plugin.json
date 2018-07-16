@@ -12,12 +12,12 @@
     "dataProviders"     :
     [
         {
-            "key"       :   "GoogleTagManager\\Containers\\GoogleTagManagerCode",
+            "key"       :   "GoogleTagManager\\ressources\\views\\GoogleTagManagerCode",
             "name"      :   "Google Tag Manager",
             "description":  "Einbinden der Javascript-Version des Google Tag Managers" 
         },
         {
-            "key"       :   "GoogleTagManager\\Containers\\GoogleTagManagerCodeNoJS",
+            "key"       :   "GoogleTagManager\\ressources\\views\\GoogleTagManagerCodeNoJS",
             "name"      :   "Google Tag Manager No JS",
             "description":  "Einbinder der non-Javascript-Version der Google Tag Managers als Ausfallsicherung"
         }
