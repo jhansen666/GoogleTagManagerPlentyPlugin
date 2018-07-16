@@ -15,6 +15,6 @@ class GoogleTagManagerServiceProvider extends ServiceProvider
     */
     public function register()
     {
-        $this->getApplication()->register(GoogleTagManagerRouteServiceProvider::class);
+       
     }
 }
