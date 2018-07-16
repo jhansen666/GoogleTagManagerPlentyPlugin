@@ -16,6 +16,6 @@ class GoogleTagManagerRouteServiceProvider extends RouteServiceProvider
      */
     public function map(Router $router)
     {
-        $router->get('hello-world','GoogleTagManager\Controllers\GoogleTagManagerController@getHelloWorldPage');
+        $router->get('gtm','GoogleTagManager\Controllers\GoogleTagManagerController@getGoogleTagManager');
     }
 }

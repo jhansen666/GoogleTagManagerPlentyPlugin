@@ -11,7 +11,7 @@ class GoogleTagManagerController extends Controller
      * @param Twig $twig
      * @return string
      */
-    public function getHelloWorldPage(Twig $twig):string
+    public function getGoogleTagManager(Twig $twig):string
     {
         return $twig->render('GoogleTagManager::Index');
     }
