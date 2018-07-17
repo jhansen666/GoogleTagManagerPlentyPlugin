@@ -17,7 +17,7 @@
             "description":  "Einbinden der Javascript-Version des Google Tag Managers" 
         },
         {
-            "key"       :   "GoogleTagManager\\Providers\\GoogleTagManagerNoJSServiceProdiver",
+            "key"       :   "GoogleTagManager\\Providers\\GoogleTagManagerNoJSServiceProvider",
             "name"      :   "Google Tag Manager No JS",
             "description":  "Einbinden der non-Javascript-Version der Google Tag Managers als Ausfallsicherung"
         }
