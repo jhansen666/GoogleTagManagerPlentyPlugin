@@ -8,7 +8,7 @@
               "gtmId": {
                 "type": "inputText",
                 "required": false,
-                "label": "Google Tag Manager Key",
+                "label": "GTM Container-ID",
                 "options": {
                   "defaultValue": ""
                         }
