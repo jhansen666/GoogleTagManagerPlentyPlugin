@@ -3,7 +3,7 @@
         "formatVersion": 1,
         "menu": {
           "Config.SettingsTab": {
-            "label": "Config.SettingsTab",
+            "label": "Einstellungen",
             "formFields": {
               "gtmId": {
                 "type": "inputText",
