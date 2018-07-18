@@ -1,5 +1,5 @@
 {
-    "version"           :   "0.9.0",
+    "version"           :   "1.0.0",
     "license"           :   "MIT",
     "name"              :   "GoogleTagManager",
     "shortDescription"  :   { "de": "Plugin zum Einbinden des Tag Manager-Codes.", "en": "TODO add manually" },
